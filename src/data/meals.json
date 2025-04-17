@@ -1,0 +1,28 @@
+[
+    {
+      "day": "Lundi",
+      "title": "Riz aux légumes",
+      "description": "Riz blanc accompagné de carottes, petits pois et oignons sautés."
+    },
+    {
+      "day": "Mardi",
+      "title": "Poulet grillé & riz",
+      "description": "Cuisse de poulet grillée au paprika avec du riz."
+    },
+    {
+      "day": "Mercredi",
+      "title": "Omelette & riz",
+      "description": "Omelette aux oignons et tomates avec riz nature."
+    },
+    {
+      "day": "Jeudi",
+      "title": "Riz au thon",
+      "description": "Riz blanc mélangé avec du thon en boîte et un filet de citron."
+    },
+    {
+      "day": "Vendredi",
+      "title": "Riz sauté au curry",
+      "description": "Riz frit avec curry, ail, et quelques morceaux de carottes."
+    }
+  ]
+  
